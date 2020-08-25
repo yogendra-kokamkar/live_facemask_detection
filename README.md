@@ -1,6 +1,6 @@
 Live Facemask detection model using tensorflow keras and opencv
 ### Usage ###
-clone the repository to your local machine
+clone the repository to your local machine and
 run the command 'python facemask_detection.py'
 
 ### Notes ###
